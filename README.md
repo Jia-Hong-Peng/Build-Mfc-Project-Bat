@@ -8,7 +8,14 @@
 
 ![](http://i.imgur.com/QllyvVX.png)
 
-效果：用一個步驟建出所有結果，編譯，版本號，BuildCode，壓成7zip
+效果：點兩下 出來一個7z， 編譯，版本號，BuildCode，壓成7zip
+
+- 幫你打好 目錄名稱 省1秒
+- 幫你打好版本 省1秒
+- 幫你打好buildcod 省3秒
+- 幫你按右鍵壓縮 省1秒
+- 總共省了六秒 YA
+
 
 ![](http://i.imgur.com/hudO0Sb.png)
 
