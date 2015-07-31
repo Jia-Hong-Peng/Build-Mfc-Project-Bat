@@ -2,9 +2,9 @@
 
 ![](http://i.imgur.com/KZDJXNz.jpg)
 
-裡面有一條是用一個步驟建出所有結果
+約耳測試裡面有一條是「用一個步驟建出所有結果」
 
-本bat適用於 MFC Project
+本 bat 適用於 MFC Project
 
 ![](http://i.imgur.com/QllyvVX.png)
 
