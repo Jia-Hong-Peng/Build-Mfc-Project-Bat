@@ -8,7 +8,7 @@
 
 ![](http://i.imgur.com/QllyvVX.png)
 
-效果：用一個步驟建出所有結果，編譯，包含BuildCode，壓成7z
+效果：用一個步驟建出所有結果，編譯，版本號，BuildCode，壓成7zip
 
 ![](http://i.imgur.com/hudO0Sb.png)
 
