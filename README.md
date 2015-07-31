@@ -15,6 +15,8 @@
 ![](http://i.imgur.com/RZsirS0.png)
 
 
+還差 自動產生 release note + mail 寄出
+
 ## 參考 ##
 - https://msdn.microsoft.com/zh-tw/library/ms164311(v=vs.120).aspx
 - https://msdn.microsoft.com/zh-tw/library/ms171486.aspx
